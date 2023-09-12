@@ -1,0 +1,1 @@
+export default  () => <img src="/static/profile.jpeg" alt="my image" max width="200px" />
